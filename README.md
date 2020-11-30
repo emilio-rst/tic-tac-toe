@@ -1,6 +1,6 @@
 # tic-tac-toe
 
-This is a Tic Tac Toe game on VueJS that I was required to develop on a assesment. Thus, I have taken the opportunity to share this on github.
+This is a Tic Tac Toe game on VueJS that I was required to develop on an assessment. Thus, I have taken the opportunity to share this on github.
 
 ## Build Setup
 
